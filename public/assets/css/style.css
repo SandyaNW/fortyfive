@@ -1,0 +1,68 @@
+html {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  .nav-link::after {
+    content: "";
+    display: block;
+    border-bottom: 0.1rem solid white;
+    transform: scaleX(0);
+    transition: 0.2s linear;
+  }
+  
+  .nav-link:hover::after {
+    transform: scaleX(1);
+  }
+  
+  .nav-color {
+    background-color: darkgray;
+    transform: all ease-in-out 0.5s;
+  }
+  
+  .bg-transparent {
+    transform: all ease-in 0.3s;
+  }
+  
+  .banner {
+    background: url("../img/head.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 10%;
+    color: #fff;
+  }
+  
+  .nav-item a {
+    font-size: 1.5vw;
+    font-weight: 600;
+    margin-right: 25px;
+  }
+  
+  .navbar {
+    content: "";
+    display: block;
+    border-bottom: 0.1rem solid white;
+  }
+  
+  main {
+    background: url("../img/bg-main.png") no-repeat center center;
+    background-size: cover;
+  }
+  
+  .btn-danger {
+    background-color: #fe0000;
+  }
+  
+  #about-us {
+    background: url("../img/bg-footer.png") no-repeat center center;
+    background-size: cover;
+  }
+  
+  .list-group {
+    list-style-type: circle;
+  }
+  .list-group-item {
+    border: none;
+    padding: 0;
+  }
+  
