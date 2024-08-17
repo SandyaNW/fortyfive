@@ -24,4 +24,4 @@
         Muhammad Anggoro Chandravita
       </p>
     </div>
-  </footer>
+</footer>

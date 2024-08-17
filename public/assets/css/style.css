@@ -33,9 +33,10 @@ html {
   }
   
   .nav-item a {
-    font-size: 1.5vw;
+    font-size: 1.1vw;
     font-weight: 600;
-    margin-right: 25px;
+    margin-right: 20px;
+    margin-top: 5px;
   }
   
   .navbar {
