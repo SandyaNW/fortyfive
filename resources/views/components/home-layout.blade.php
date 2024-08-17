@@ -120,7 +120,7 @@
         <h1 class="fw-bold mb-5">PRESENT</h1>
         <div class="row justify-content-md-center gap-5">
           <div class="col-5 me-5 ms-1 pe-5">
-            <div class="card p-5"><img src="img/kaos.png" alt="" /></div>
+            <div class="card p-5"><img src="{{ asset('assets/img/kaos.png') }}" alt="Gambar Kaos" /></div>
           </div>
           <div class="col-5 text-start p-5">
             <p class="h4" style="text-align: justify">

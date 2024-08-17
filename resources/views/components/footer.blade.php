@@ -5,7 +5,6 @@
           <img src="assets/img/logo-f.png" alt="FOURTYFIVE Logo" class="footer-logo">
           <p>Print Memorable Shirts. The Biggest Blank Apparel in Indonesia. With more than 43 stores across Indonesia.</p>
       </div>
-
       <!-- Bagian Tengah -->
       <div class="footer-center">
           <nav>
@@ -36,3 +35,4 @@
     <p>&copy; 2024 FOURTYFIVE. All rights reserved.</p>
   </div>
 </footer>
+
