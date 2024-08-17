@@ -1,27 +1,38 @@
-<footer>
-    <div id="about-us" class="container-fluid text-light text-center p-5">
-      <div class="d-flex justify-content-between mb-4">
-        <h2>THREESIXTY</h2>
-        <img
-          src="img/Logo2.png"
-          class="img-fluid img-thumbnail"
-          style="width: 5%"
-          alt=""
-        />
+<footer class="footer">
+  <div class="footer-container">
+      <!-- Bagian Kiri -->
+      <div class="footer-left">
+          <img src="assets/img/logo-f.png" alt="FOURTYFIVE Logo" class="footer-logo">
+          <p>Print Memorable Shirts. The Biggest Blank Apparel in Indonesia. With more than 43 stores across Indonesia.</p>
       </div>
-      <h1>ABOUT US</h1>
-      <p class="h4 p-5">
-        Threesixty printed t-shirts refer to t-shirts printed using the
-        services of a brand or company called Threesixty. This process
-        involves printing creative, high-quality designs on t-shirts, giving
-        customers the option to create clothing that is unique and suits their
-        personal style.
-      </p>
-    </div>
-    <div class="container-fluid bg-dark text-light text-center">
-      <p class="h4 p-5 mx-5">
-        Bagas Yuli Prasetyo | Nanda Bagus Ramadhan | Dimas Aji Nugroho |
-        Muhammad Anggoro Chandravita
-      </p>
-    </div>
+      <!-- Bagian Tengah -->
+      <div class="footer-center">
+          <nav>
+              <a href="#">Help</a>
+              <a href="#">About Us</a>
+              <a href="#">Contact Us</a>
+              <a href="#">Customer Services</a>
+              <a href="#">Privacy Policy</a>
+          </nav>
+      </div>
+
+      <!-- Bagian Kanan -->
+      <div class="footer-right">
+          <div class="social-icons">
+              <a href="#" class="bi bi-facebook"></a>
+              <a href="#" class="bi bi-twitter-x"></a>
+              <a href="#" class="bi bi-instagram"></a>
+          </div>
+          <p>Subscribe to our newsletter:</p>
+          <form action="#">
+              <input type="email" placeholder="Enter your email">
+              <button type="submit">Subscribe</button>
+          </form>
+      </div>
+  </div>
+
+  <div class="footer-copyright">
+    <p>&copy; 2024 FOURTYFIVE. All rights reserved.</p>
+  </div>
 </footer>
+
