@@ -22,7 +22,7 @@
                 <a
                   class="nav-link active text-light"
                   aria-current="page"
-                  href="index.html"
+                  href="/"
                   >HOME</a
                 >
               </li>
